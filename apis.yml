@@ -1,7 +1,12 @@
 aid: fidelity-national-financial
-url: https://raw.githubusercontent.com/api-evangelist/fidelity-national-financial/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/fidelity-national-financial/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.fidelity-national-financial.com
+description: >-
+  Fidelity National Financial is a leading provider of title insurance, escrow, and
+  other title-related services as well as transaction services to the real estate
+  and mortgage industries.
