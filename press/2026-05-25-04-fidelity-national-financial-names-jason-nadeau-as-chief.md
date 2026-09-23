@@ -1,7 +1,9 @@
 ---
 title: Fidelity National Financial Names Jason Nadeau As Chief ...
 url: https://nationalmortgageprofessional.com/news/fidelity-national-financial-names-jason-nadeau-chief-artificial-intelligence-officer
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fidelity National Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Fidelity National Financial Names Jason Nadeau As Chief ...
 url: https://www.investor.fnf.com/news-releases/news-release-details/fidelity-national-financial-names-jason-nadeau-chief-artificial
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fidelity National Financial" press release artificial intelligence'
 position: 1
 source: serpapi-google

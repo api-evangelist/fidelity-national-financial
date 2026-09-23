@@ -1,7 +1,9 @@
 ---
 title: Fidelity National Financial, Inc.
 url: https://www.sec.gov/Archives/edgar/data/1331875/000110465925040185/tm252368d4_def14a.htm
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Fidelity National Financial" press release artificial intelligence'
 position: 5
 source: serpapi-google
