@@ -33,7 +33,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fidelity-n
 tags:
   - Title Insurance
   - Escrow
-  - Real-Estate
+  - Real Estate
   - Mortgage
   - Annuities
   - Fortune 500
@@ -44,6 +44,7 @@ tags_raw:
   - Mortgage
   - Annuities
   - Fortune 500
+  - Real-Estate
 url: >-
   https://raw.githubusercontent.com/api-evangelist/fidelity-national-financial/refs/heads/main/apis.yml
 created: '2026-03-21'
